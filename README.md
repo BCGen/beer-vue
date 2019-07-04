@@ -1,4 +1,4 @@
-# taiwan-beer
+# beer
 
 ## Project setup
 ```
