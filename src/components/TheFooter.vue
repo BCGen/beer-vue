@@ -1,0 +1,14 @@
+<template>
+  <footer>
+    <picture>
+      <source
+        srcset="@/assets/img/warning_pc.jpg"
+        media="(min-width:768px)"
+      >
+      <img
+        src="@/assets/img/warning.jpg"
+        alt=""
+      >
+    </picture>
+  </footer>
+</template>
